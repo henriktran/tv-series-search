@@ -29,6 +29,7 @@ Overall better coverage and more tests of core features
 
 - Having previous search results stored locally (for example using redux) to reduce possible server load
 - Loading states
+- The api only seem to return maximum of 10 results, so having an informational text about it would be helpful for users
 
 ### Code
 
